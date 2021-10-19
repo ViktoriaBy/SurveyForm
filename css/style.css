@@ -1,0 +1,54 @@
+body{
+    padding-bottom: 50px;
+}
+
+#title{
+    letter-spacing: 3.5px;
+    font-size: 30px;
+}
+
+#description{
+    font-size: 20px;
+    letter-spacing: 4px;
+}
+
+#name-label{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+#email-label{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+#number-label{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+#floatingSelect{
+    font-size: 15px;
+    letter-spacing: 3px;  
+}
+
+#formGroupQuestion{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+#brochureQuestion{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+#suggestionQuestion{
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+#submitBtn{
+    margin-top: 20px;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
